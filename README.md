@@ -9,7 +9,7 @@ All models are pre-trained.
 Question 1
 For category II : Next-Token Predictor (C++ Code)
 
-* **Download `model_cpp_low.pth`:** [Paste your Google Drive link here]
+* **Download `model_cpp_low.pth`:** https://drive.google.com/file/d/1f917U2an9pKLlEfLEjh59n-NqAK7TMcO/view?usp=sharing
 * **Download `model_cpp_medium.pth`:** [Paste your Google Drive link here]
 * **Download `model_cpp_high.pth`:** [Paste your Google Drive link here]
 
