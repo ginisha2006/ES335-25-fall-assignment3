@@ -1,12 +1,13 @@
 # ES335-25-fall-assignment3
 
-# C++ Code Generation Project
 
 
 
-All models are pre-trained.
 
-Question 1
+
+
+#Question 1
+C++ Code Generation Project
 For category II : Next-Token Predictor (C++ Code)
 
 * **Download `model_cpp_low.pth`:** https://drive.google.com/file/d/1f917U2an9pKLlEfLEjh59n-NqAK7TMcO/view?usp=sharing
