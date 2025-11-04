@@ -23,7 +23,7 @@ For category I : Sherlock Holmes (
 Once the files are in the directory, all cells (including t-SNE and the Streamlit app) will run in just a few minutes.
 
 For Category 1 : Next-Token Predictor (C++ Code):
-https://c-codegeneerator-zrddtfz8psxwgbxyhvgcwl.streamlit.app/ 
+https://c-codegeneerator-avrhahevm8ar9m2tusxhas.streamlit.app/ 
 
 For Category 2 : Sherlock Holmes
-https://c-codegeneerator-avrhahevm8ar9m2tusxhas.streamlit.app/ 
+https://c-codegeneerator-zrddtfz8psxwgbxyhvgcwl.streamlit.app/
