@@ -14,4 +14,10 @@ For category II : Next-Token Predictor (C++ Code)
 * **Download `model_cpp_medium.pth`:** https://drive.google.com/file/d/1r954Rf09DwE9mmTnuuvMGKPL1lTnk9tF/view?usp=sharing
 * **Download `model_cpp_high.pth`:** https://drive.google.com/file/d/1qupmuOIr8o2CzP4HXMeKaJEdlHYqfRt3/view?usp=sharing
 
+For category I : Sherlock Holmes (
+
+* **Download `model_cpp_low.pth`:** https://drive.google.com/file/d/1IXzqHBSZUfYfd68SipxCdyT5MpMRdl_2/view?usp=sharing
+* **Download `model_cpp_medium.pth`:** https://drive.google.com/file/d/1HzR1FMEMj7Kg-gU2ABGmBs9c_Yt2PC1b/view?usp=sharing
+* **Download `model_cpp_high.pth`:** https://drive.google.com/file/d/1M0AT5eipWW7BPlH3hoRAUk8AM6wilosG/view?usp=sharing
+
 Once the files are in the directory, all cells (including t-SNE and the Streamlit app) will run in just a few minutes.
